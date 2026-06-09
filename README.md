@@ -1,6 +1,8 @@
 # Customer Sales Analysis Dashboard
-![Dashboard Preview](images/monthly_revenue.png) 
-This project analyzes customer sales data in a Jupyter notebook. It includes a sample order-level dataset, calculates common sales KPIs, and generates charts that can be saved into the `images/` folder.
+
+This project analyzes customer sales data in a Jupyter notebook. It includes a sample order-level dataset, calculates common sales KPIs, and generates charts that can be saved into the images folder.
+
+![Monthly Revenue Trend](images/monthly_revenue.png)
 
 ## Portfolio Summary
 
@@ -48,12 +50,12 @@ customer-sales-analysis-dashboard/
 
 ## Analysis Included
 
-- Total revenue, total orders, average order value, unique customers, and units sold
-- Monthly revenue trend
-- Revenue by region
-- Revenue by product category
-- Top customers by revenue
-- Sales channel and category pivot summary
+- Revenue performance analysis
+- Customer behavior analysis
+- Regional sales analysis
+- Product category analysis
+- Data quality validation
+- KPI reporting and business insights
 
 ## Project Results
 
@@ -117,6 +119,8 @@ Run the notebook cells from top to bottom. The chart cells save PNG files into t
 - Add customer segmentation by purchase frequency or revenue
 - Build an interactive dashboard with Streamlit or Plotly Dash
 - Add automated data validation checks before analysis
+- Create predictive sales forecasting models using machine learning
+- 
 ## Dashboard Charts
 
 ### Monthly Revenue Trend
