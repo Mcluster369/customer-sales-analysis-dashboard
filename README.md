@@ -12,18 +12,22 @@ This project analyzes customer sales data in a Jupyter notebook. It includes a s
 - Applied data validation techniques to identify missing, duplicate, and inconsistent records.
 - Generated business recommendations based on analytical findings and sales trends.
 
-  ## Skills Demonstrated
+  
+## Skills Demonstrated
 
 - Python
 - Pandas
+- NumPy
+- Matplotlib
 - Data Cleaning
 - Data Validation
 - Exploratory Data Analysis (EDA)
-- Data Visualization
-- Business Analytics
 - KPI Reporting
+- Business Analytics
+- Data Visualization
 - Jupyter Notebook
-- GitHub Documentation
+- Git & GitHub
+
 
 ## Project Structure
 
@@ -60,7 +64,7 @@ customer-sales-analysis-dashboard/
 - Negative Quantities: 0
 - Negative Prices: 0
 
-### Key Metrics
+## Key Metrics
 
 | KPI | Value |
 |------|------|
@@ -70,9 +74,10 @@ customer-sales-analysis-dashboard/
 | Unique Customers | 20 |
 | Total Units Sold | 149 |
 
+## Business Impact
+This analysis identified top-performing sales regions, highest-revenue product categories, and the most valuable customers. These insights can help businesses improve marketing allocation, optimize inventory planning, and strengthen customer retention strategies. The dashboard demonstrates how data-driven decision making can support business growth and operational efficiency.
 
 ## How to Run
-
 From the project folder:
 
 ```powershell
