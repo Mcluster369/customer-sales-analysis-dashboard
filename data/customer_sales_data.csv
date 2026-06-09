@@ -1,0 +1,41 @@
+order_id,order_date,customer_id,customer_name,region,state,product_category,product,sales_channel,quantity,unit_price,discount_rate
+1001,2025-01-04,C001,Ava Johnson,South,TX,Electronics,Wireless Mouse,Online,3,24.99,0.05
+1002,2025-01-08,C002,Liam Smith,West,CA,Furniture,Office Chair,Retail,1,189.99,0.10
+1003,2025-01-12,C003,Mia Davis,Midwest,IL,Office Supplies,Notebook Pack,Online,8,12.50,0.00
+1004,2025-01-19,C004,Noah Brown,Northeast,NY,Electronics,USB-C Hub,Online,2,49.99,0.07
+1005,2025-01-23,C005,Emma Wilson,South,FL,Office Supplies,Desk Organizer,Retail,4,18.75,0.00
+1006,2025-02-02,C006,Olivia Miller,West,WA,Electronics,Webcam,Online,1,84.99,0.05
+1007,2025-02-07,C001,Ava Johnson,South,TX,Furniture,Standing Desk,Retail,1,349.99,0.12
+1008,2025-02-11,C007,James Moore,Midwest,OH,Office Supplies,Printer Paper,Online,10,8.99,0.00
+1009,2025-02-18,C008,Sophia Taylor,Northeast,MA,Electronics,Noise Cancelling Headphones,Online,1,129.99,0.08
+1010,2025-02-25,C009,Ben Anderson,South,GA,Furniture,Bookshelf,Retail,2,119.99,0.10
+1011,2025-03-03,C010,Charlotte Thomas,West,AZ,Office Supplies,Pen Set,Online,12,6.49,0.00
+1012,2025-03-06,C002,Liam Smith,West,CA,Electronics,Portable Monitor,Online,1,219.99,0.06
+1013,2025-03-14,C011,Amelia Jackson,Midwest,MI,Furniture,Filing Cabinet,Retail,1,159.99,0.09
+1014,2025-03-21,C012,Lucas White,Northeast,NJ,Office Supplies,Sticky Notes,Online,15,3.99,0.00
+1015,2025-03-28,C003,Mia Davis,Midwest,IL,Electronics,Mechanical Keyboard,Online,2,89.99,0.05
+1016,2025-04-02,C013,Harper Harris,South,NC,Furniture,Desk Lamp,Retail,3,39.99,0.03
+1017,2025-04-08,C014,Henry Martin,West,OR,Office Supplies,Marker Set,Online,7,11.49,0.00
+1018,2025-04-13,C004,Noah Brown,Northeast,NY,Electronics,Docking Station,Online,1,149.99,0.07
+1019,2025-04-20,C015,Evelyn Thompson,South,TN,Furniture,Conference Table,Retail,1,499.99,0.15
+1020,2025-04-27,C006,Olivia Miller,West,WA,Office Supplies,File Folders,Online,20,2.49,0.00
+1021,2025-05-01,C016,Alexander Garcia,Midwest,WI,Electronics,Tablet Stand,Online,4,29.99,0.04
+1022,2025-05-05,C005,Emma Wilson,South,FL,Furniture,Guest Chair,Retail,2,89.99,0.08
+1023,2025-05-11,C017,Abigail Martinez,Northeast,PA,Office Supplies,Calendar Planner,Online,5,16.99,0.00
+1024,2025-05-18,C018,Daniel Robinson,West,NV,Electronics,Wireless Charger,Online,3,34.99,0.05
+1025,2025-05-24,C007,James Moore,Midwest,OH,Furniture,Storage Cabinet,Retail,1,229.99,0.11
+1026,2025-06-02,C019,Ella Clark,South,LA,Office Supplies,Binder Set,Online,9,7.99,0.00
+1027,2025-06-07,C020,Matthew Rodriguez,West,CO,Electronics,Bluetooth Speaker,Online,2,69.99,0.06
+1028,2025-06-12,C008,Sophia Taylor,Northeast,MA,Furniture,Ergonomic Chair,Retail,1,249.99,0.10
+1029,2025-06-19,C009,Ben Anderson,South,GA,Office Supplies,Label Maker,Online,1,44.99,0.04
+1030,2025-06-24,C010,Charlotte Thomas,West,AZ,Electronics,Laptop Backpack,Online,2,59.99,0.05
+1031,2025-07-03,C011,Amelia Jackson,Midwest,MI,Furniture,Bookcase,Retail,1,139.99,0.07
+1032,2025-07-09,C012,Lucas White,Northeast,NJ,Office Supplies,Envelope Box,Online,6,9.49,0.00
+1033,2025-07-16,C013,Harper Harris,South,NC,Electronics,Desk Microphone,Online,1,109.99,0.06
+1034,2025-07-22,C014,Henry Martin,West,OR,Furniture,Monitor Arm,Retail,3,74.99,0.05
+1035,2025-07-29,C015,Evelyn Thompson,South,TN,Office Supplies,Stapler,Online,4,14.99,0.00
+1036,2025-08-04,C016,Alexander Garcia,Midwest,WI,Electronics,External SSD,Online,1,159.99,0.08
+1037,2025-08-10,C017,Abigail Martinez,Northeast,PA,Furniture,Corner Desk,Retail,1,279.99,0.12
+1038,2025-08-17,C018,Daniel Robinson,West,NV,Office Supplies,Whiteboard,Online,2,64.99,0.03
+1039,2025-08-23,C019,Ella Clark,South,LA,Electronics,Smart Desk Clock,Online,3,39.99,0.05
+1040,2025-08-30,C020,Matthew Rodriguez,West,CO,Furniture,Mobile Pedestal,Retail,1,179.99,0.09
