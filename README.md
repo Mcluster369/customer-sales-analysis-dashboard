@@ -11,10 +11,10 @@ This project analyzes customer sales data in a Jupyter notebook. It includes a s
 - Created visualizations to analyze monthly revenue trends, regional performance, product category sales, and customer activity.
 - Applied data validation techniques to identify missing, duplicate, and inconsistent records.
 - Generated business recommendations based on analytical findings and sales trends.
-- 
+  
 ## Project Structure
 
-```text
+```
 customer-sales-analysis-dashboard/
 ├── data/
 │   └── customer_sales_data.csv
