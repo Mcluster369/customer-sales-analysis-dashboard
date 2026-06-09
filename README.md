@@ -4,7 +4,7 @@ This project analyzes customer sales data in a Jupyter notebook. It includes a s
 
 ![Monthly Revenue Trend](images/monthly_revenue.png)
 
-## Portfolio Summary
+##Portfolio Summary
 
 **Customer Sales Analysis Dashboard | Python, Pandas, Matplotlib, Jupyter Notebook**
 
@@ -113,7 +113,7 @@ Run the notebook cells from top to bottom. The chart cells save PNG files into t
 3. Develop retention programs for top customers.
 4. Increase investment in strongest-performing sales channels.
 
-## Possible Improvements
+##Possible Improvements
 
 - Replace the sample CSV with real business data
 - Add customer segmentation by purchase frequency or revenue
