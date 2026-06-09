@@ -1,5 +1,5 @@
 # Customer Sales Analysis Dashboard
-
+![Dashboard Preview](images/monthly_revenue.png) 
 This project analyzes customer sales data in a Jupyter notebook. It includes a sample order-level dataset, calculates common sales KPIs, and generates charts that can be saved into the `images/` folder.
 
 ## Portfolio Summary
@@ -11,7 +11,7 @@ This project analyzes customer sales data in a Jupyter notebook. It includes a s
 - Created visualizations to analyze monthly revenue trends, regional performance, product category sales, and customer activity.
 - Applied data validation techniques to identify missing, duplicate, and inconsistent records.
 - Generated business recommendations based on analytical findings and sales trends.
-
+- 
 ## Project Structure
 
 ```text
@@ -21,7 +21,10 @@ customer-sales-analysis-dashboard/
 ├── notebook/
 │   └── customer_sales_analysis.ipynb
 ├── images/
-│   └── chart screenshots
+│   ├── monthly_revenue.png
+│   ├── revenue_by_region.png
+│   ├── revenue_by_product_category.png
+│   └── top_customers_by_revenue.png
 ├── README.md
 └── requirements.txt
 ```
