@@ -4,6 +4,7 @@ This project analyzes customer sales data in a Jupyter notebook. It includes a s
 
 ![Monthly Revenue Trend](images/monthly_revenue.png)
 
+
 Portfolio Summary
 
 **Customer Sales Analysis Dashboard | Python, Pandas, Matplotlib, Jupyter Notebook**
@@ -56,6 +57,7 @@ customer-sales-analysis-dashboard/
 - Product category analysis
 - Data quality validation
 - KPI reporting and business insights
+  
 
    Project Results
 
@@ -79,6 +81,7 @@ customer-sales-analysis-dashboard/
    Business Impact
 This analysis identified top-performing sales regions, highest-revenue product categories, and the most valuable customers. These insights can help businesses improve marketing allocation, optimize inventory planning, and strengthen customer retention strategies. The dashboard demonstrates how data-driven decision making can support business growth and operational efficiency.
 
+
    How to Run
 From the project folder:
 
@@ -90,6 +93,7 @@ jupyter notebook notebook/customer_sales_analysis.ipynb
 ```
 
 Run the notebook cells from top to bottom. The chart cells save PNG files into the `images/` folder.
+
 
    Dataset Columns
 
@@ -105,6 +109,7 @@ Run the notebook cells from top to bottom. The chart cells save PNG files into t
 - `quantity`: Units purchased
 - `unit_price`: Price per unit
 - `discount_rate`: Discount percentage stored as a decimal
+  
 
    Business Recommendations
 
@@ -112,6 +117,7 @@ Run the notebook cells from top to bottom. The chart cells save PNG files into t
 2. Focus inventory investment on highest revenue categories.
 3. Develop retention programs for top customers.
 4. Increase investment in strongest-performing sales channels.
+   
 
    Possible Improvements
 
@@ -120,6 +126,7 @@ Run the notebook cells from top to bottom. The chart cells save PNG files into t
 - Build an interactive dashboard with Streamlit or Plotly Dash
 - Add automated data validation checks before analysis
 - Create predictive sales forecasting models using machine learning
+  
   
    Dashboard Charts
 
