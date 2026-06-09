@@ -93,3 +93,20 @@ Run the notebook cells from top to bottom. The chart cells save PNG files into t
 - Add customer segmentation by purchase frequency or revenue
 - Build an interactive dashboard with Streamlit or Plotly Dash
 - Add automated data validation checks before analysis
+## Dashboard Charts
+
+### Monthly Revenue Trend
+
+![Monthly Revenue](images/monthly_revenue.png)
+
+### Revenue by Region
+
+![Revenue by Region](images/revenue_by_region.png)
+
+### Revenue by Product Category
+
+![Revenue by Product Category](images/revenue_by_product_category.png)
+
+### Top Customers by Revenue
+
+![Top Customers](images/top_customers_by_revenue.png)
