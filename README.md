@@ -59,6 +59,7 @@ customer-sales-analysis-dashboard/
 - KPI reporting and business insights
   
 
+
    Project Results
 
     Data Quality Validation
@@ -67,6 +68,7 @@ customer-sales-analysis-dashboard/
 - Duplicate Records: 0
 - Negative Quantities: 0
 - Negative Prices: 0
+
 
    Key Metrics
 
