@@ -120,7 +120,7 @@ Run the notebook cells from top to bottom. The chart cells save PNG files into t
 - Build an interactive dashboard with Streamlit or Plotly Dash
 - Add automated data validation checks before analysis
 - Create predictive sales forecasting models using machine learning
-- 
+  
 ## Dashboard Charts
 
 ### Monthly Revenue Trend
