@@ -11,7 +11,20 @@ This project analyzes customer sales data in a Jupyter notebook. It includes a s
 - Created visualizations to analyze monthly revenue trends, regional performance, product category sales, and customer activity.
 - Applied data validation techniques to identify missing, duplicate, and inconsistent records.
 - Generated business recommendations based on analytical findings and sales trends.
-  
+
+  ## Skills Demonstrated
+
+- Python
+- Pandas
+- Data Cleaning
+- Data Validation
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Analytics
+- KPI Reporting
+- Jupyter Notebook
+- GitHub Documentation
+
 ## Project Structure
 
 ```
@@ -49,11 +62,14 @@ customer-sales-analysis-dashboard/
 
 ### Key Metrics
 
-- Total Revenue: $5,413.96
-- Total Orders: 40
-- Average Order Value: $135.35
-- Unique Customers: 20
-- Total Units Sold: 149
+| KPI | Value |
+|------|------|
+| Total Revenue | $5,413.96 |
+| Total Orders | 40 |
+| Average Order Value | $135.35 |
+| Unique Customers | 20 |
+| Total Units Sold | 149 |
+
 
 ## How to Run
 
