@@ -1,10 +1,10 @@
-# Customer Sales Analysis Dashboard
+  Customer Sales Analysis Dashboard
 
 This project analyzes customer sales data in a Jupyter notebook. It includes a sample order-level dataset, calculates common sales KPIs, and generates charts that can be saved into the images folder.
 
 ![Monthly Revenue Trend](images/monthly_revenue.png)
 
-##Portfolio Summary
+Portfolio Summary
 
 **Customer Sales Analysis Dashboard | Python, Pandas, Matplotlib, Jupyter Notebook**
 
@@ -15,7 +15,7 @@ This project analyzes customer sales data in a Jupyter notebook. It includes a s
 - Generated business recommendations based on analytical findings and sales trends.
 
   
-## Skills Demonstrated
+ Skills Demonstrated
 
 - Python
 - Pandas
@@ -31,7 +31,7 @@ This project analyzes customer sales data in a Jupyter notebook. It includes a s
 - Git & GitHub
 
 
-## Project Structure
+   Project Structure
 
 ```
 customer-sales-analysis-dashboard/
@@ -48,7 +48,7 @@ customer-sales-analysis-dashboard/
 └── requirements.txt
 ```
 
-## Analysis Included
+   Analysis Included
 
 - Revenue performance analysis
 - Customer behavior analysis
@@ -57,16 +57,16 @@ customer-sales-analysis-dashboard/
 - Data quality validation
 - KPI reporting and business insights
 
-## Project Results
+   Project Results
 
-### Data Quality Validation
+    Data Quality Validation
 
 - Missing Values: 0
 - Duplicate Records: 0
 - Negative Quantities: 0
 - Negative Prices: 0
 
-## Key Metrics
+   Key Metrics
 
 | KPI | Value |
 |------|------|
@@ -76,10 +76,10 @@ customer-sales-analysis-dashboard/
 | Unique Customers | 20 |
 | Total Units Sold | 149 |
 
-## Business Impact
+   Business Impact
 This analysis identified top-performing sales regions, highest-revenue product categories, and the most valuable customers. These insights can help businesses improve marketing allocation, optimize inventory planning, and strengthen customer retention strategies. The dashboard demonstrates how data-driven decision making can support business growth and operational efficiency.
 
-## How to Run
+   How to Run
 From the project folder:
 
 ```powershell
@@ -91,7 +91,7 @@ jupyter notebook notebook/customer_sales_analysis.ipynb
 
 Run the notebook cells from top to bottom. The chart cells save PNG files into the `images/` folder.
 
-## Dataset Columns
+   Dataset Columns
 
 - `order_id`: Unique order number
 - `order_date`: Date the order was placed
@@ -106,14 +106,14 @@ Run the notebook cells from top to bottom. The chart cells save PNG files into t
 - `unit_price`: Price per unit
 - `discount_rate`: Discount percentage stored as a decimal
 
-## Business Recommendations
+   Business Recommendations
 
 1. Expand marketing in top-performing regions.
 2. Focus inventory investment on highest revenue categories.
 3. Develop retention programs for top customers.
 4. Increase investment in strongest-performing sales channels.
 
-##Possible Improvements
+   Possible Improvements
 
 - Replace the sample CSV with real business data
 - Add customer segmentation by purchase frequency or revenue
@@ -121,20 +121,20 @@ Run the notebook cells from top to bottom. The chart cells save PNG files into t
 - Add automated data validation checks before analysis
 - Create predictive sales forecasting models using machine learning
   
-## Dashboard Charts
+   Dashboard Charts
 
-### Monthly Revenue Trend
+    Monthly Revenue Trend
 
 ![Monthly Revenue](images/monthly_revenue.png)
 
-### Revenue by Region
+    Revenue by Region
 
 ![Revenue by Region](images/revenue_by_region.png)
 
-### Revenue by Product Category
+    Revenue by Product Category
 
 ![Revenue by Product Category](images/revenue_by_product_category.png)
 
-### Top Customers by Revenue
+    Top Customers by Revenue
 
 ![Top Customers](images/top_customers_by_revenue.png)
